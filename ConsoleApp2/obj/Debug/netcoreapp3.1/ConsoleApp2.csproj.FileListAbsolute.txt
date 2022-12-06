@@ -1,0 +1,41 @@
+C:\Users\shalo\OneDrive\Desktop\שנה ב\סמסטר ג\C#\PRO\BattleShip-Shalom-Luzan-2020\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.exe
+C:\Users\shalo\OneDrive\Desktop\שנה ב\סמסטר ג\C#\PRO\BattleShip-Shalom-Luzan-2020\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.deps.json
+C:\Users\shalo\OneDrive\Desktop\שנה ב\סמסטר ג\C#\PRO\BattleShip-Shalom-Luzan-2020\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.json
+C:\Users\shalo\OneDrive\Desktop\שנה ב\סמסטר ג\C#\PRO\BattleShip-Shalom-Luzan-2020\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.dev.json
+C:\Users\shalo\OneDrive\Desktop\שנה ב\סמסטר ג\C#\PRO\BattleShip-Shalom-Luzan-2020\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.dll
+C:\Users\shalo\OneDrive\Desktop\שנה ב\סמסטר ג\C#\PRO\BattleShip-Shalom-Luzan-2020\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.pdb
+C:\Users\shalo\OneDrive\Desktop\שנה ב\סמסטר ג\C#\PRO\BattleShip-Shalom-Luzan-2020\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\shalo\OneDrive\Desktop\שנה ב\סמסטר ג\C#\PRO\BattleShip-Shalom-Luzan-2020\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfo.cs
+C:\Users\shalo\OneDrive\Desktop\שנה ב\סמסטר ג\C#\PRO\BattleShip-Shalom-Luzan-2020\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\shalo\OneDrive\Desktop\שנה ב\סמסטר ג\C#\PRO\BattleShip-Shalom-Luzan-2020\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.dll
+C:\Users\shalo\OneDrive\Desktop\שנה ב\סמסטר ג\C#\PRO\BattleShip-Shalom-Luzan-2020\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.pdb
+C:\Users\shalo\OneDrive\Desktop\שנה ב\סמסטר ג\C#\PRO\BattleShip-Shalom-Luzan-2020\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.genruntimeconfig.cache
+C:\Users\shalo\OneDrive\Desktop\שנה ב\סמסטר ג\C#\PRO\BattleShip-Shalom-Luzan-2020\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csprojAssemblyReference.cache
+D:\שלום לימודים\שנה ב\סמסטר ג\C#\PRO\BattleShip-Shalom-Luzan-2020\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.exe
+D:\שלום לימודים\שנה ב\סמסטר ג\C#\PRO\BattleShip-Shalom-Luzan-2020\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.deps.json
+D:\שלום לימודים\שנה ב\סמסטר ג\C#\PRO\BattleShip-Shalom-Luzan-2020\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.json
+D:\שלום לימודים\שנה ב\סמסטר ג\C#\PRO\BattleShip-Shalom-Luzan-2020\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.dev.json
+D:\שלום לימודים\שנה ב\סמסטר ג\C#\PRO\BattleShip-Shalom-Luzan-2020\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.dll
+D:\שלום לימודים\שנה ב\סמסטר ג\C#\PRO\BattleShip-Shalom-Luzan-2020\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.pdb
+D:\שלום לימודים\שנה ב\סמסטר ג\C#\PRO\BattleShip-Shalom-Luzan-2020\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.AssemblyReference.cache
+D:\שלום לימודים\שנה ב\סמסטר ג\C#\PRO\BattleShip-Shalom-Luzan-2020\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\שלום לימודים\שנה ב\סמסטר ג\C#\PRO\BattleShip-Shalom-Luzan-2020\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfoInputs.cache
+D:\שלום לימודים\שנה ב\סמסטר ג\C#\PRO\BattleShip-Shalom-Luzan-2020\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfo.cs
+D:\שלום לימודים\שנה ב\סמסטר ג\C#\PRO\BattleShip-Shalom-Luzan-2020\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\שלום לימודים\שנה ב\סמסטר ג\C#\PRO\BattleShip-Shalom-Luzan-2020\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.dll
+D:\שלום לימודים\שנה ב\סמסטר ג\C#\PRO\BattleShip-Shalom-Luzan-2020\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.pdb
+D:\שלום לימודים\שנה ב\סמסטר ג\C#\PRO\BattleShip-Shalom-Luzan-2020\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.genruntimeconfig.cache
+C:\Users\shalo\Desktop\worke booke\BattleShip-Shalom-Luzan-2020\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.exe
+C:\Users\shalo\Desktop\worke booke\BattleShip-Shalom-Luzan-2020\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.deps.json
+C:\Users\shalo\Desktop\worke booke\BattleShip-Shalom-Luzan-2020\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.json
+C:\Users\shalo\Desktop\worke booke\BattleShip-Shalom-Luzan-2020\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.dev.json
+C:\Users\shalo\Desktop\worke booke\BattleShip-Shalom-Luzan-2020\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.dll
+C:\Users\shalo\Desktop\worke booke\BattleShip-Shalom-Luzan-2020\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.pdb
+C:\Users\shalo\Desktop\worke booke\BattleShip-Shalom-Luzan-2020\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\shalo\Desktop\worke booke\BattleShip-Shalom-Luzan-2020\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shalo\Desktop\worke booke\BattleShip-Shalom-Luzan-2020\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\shalo\Desktop\worke booke\BattleShip-Shalom-Luzan-2020\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfo.cs
+C:\Users\shalo\Desktop\worke booke\BattleShip-Shalom-Luzan-2020\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\shalo\Desktop\worke booke\BattleShip-Shalom-Luzan-2020\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.dll
+C:\Users\shalo\Desktop\worke booke\BattleShip-Shalom-Luzan-2020\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.pdb
+C:\Users\shalo\Desktop\worke booke\BattleShip-Shalom-Luzan-2020\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.genruntimeconfig.cache

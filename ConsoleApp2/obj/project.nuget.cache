@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dZ5yL5MGkX6tDBjuMZGkmlx0MpTcciRCqCc2chx/KLQbn1LqEF03OZb6XAK9yV3zYyZb583ToWAFXx7TvxLNhg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\shalo\\Desktop\\worke booke\\BattleShip-Shalom-Luzan-2020\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shalo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
+}
